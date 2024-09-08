@@ -1,0 +1,22 @@
+.fs-12{
+    font-size: 12px;
+    line-height: 2;
+}
+.fs-14 {
+    font-size: 14px;
+}
+.fs-16{
+    font-size: 16px;
+}
+.text-gray900{
+    color: #212529;
+}
+.list-group-item.active{
+    border: var(--bs-list-group-border-width) solid var(--bs-list-group-border-color);
+}
+.card{
+    border-radius: 0px;
+}
+.card-footer .btn{
+    border-radius: 2px;
+}

@@ -1,3 +1,21 @@
-.index-title {
-  font-size: 100px;
+.main{
+  width: calc(100% - 296px);
+}
+.dropdown-toggle::after {
+  color: $success; // 修改箭頭顏色
+}
+.assignment-list-link{
+  width: 320px;
+}
+.assignment-title{
+  color: #212529;
+  font-size: 16px;
+}
+.assignment-class{
+  color: #212529;
+  font-size: 12px;
+  line-height: 2;
+}
+.star{
+  fill:0;
 }
